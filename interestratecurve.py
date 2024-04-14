@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 #%%
 # Your FRED API Key
-api_key = '3a99e30c13560f72bbb282d7aa2dd03f'
+api_key = #use your api key
 
 # FRED series IDs for Treasury yields you want to include in the curve
 series_ids = {
